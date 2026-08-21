@@ -1,0 +1,15 @@
+{
+  "name": "Ace Home Tutors",
+  "short_name": "Ace Tutors",
+  "description": "Personalised, verified home tuition for Class V-XII in Navi Mumbai.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFFDF7",
+  "theme_color": "#0099FF",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
